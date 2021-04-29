@@ -1,5 +1,0 @@
-include README.txt
-include test.py
-include demo.py
-include Makefile
-include PKGBUILD
